@@ -1,0 +1,125 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "ITIContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "APILab2",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Daily_Transactions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Department]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ins_Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Instructor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Last_Transactions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StAuditTab]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Stud_Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Student]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Topic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[m_view]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[mngr_view]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[mngrView]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V2]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V3]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V5]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V6]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V7]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[V8]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v9]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VMangersData]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[SP_StPerDept]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "mohamednabil.ITI.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

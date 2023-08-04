@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Task 2</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+</head>
+<body>
+    
+<div class="container">
+    <div class="row">
+        <button class="btn btn-primary col-md-2 my-2" onclick="GetAllStudents()">Get All Students</button>
+<table class="table table-stripped">
+    <thead>
+        <tr>
+          <th scope="col">Id</th>
+          <th scope="col">First name</th>
+          <th scope="col">Last name</th>
+          <th scope="col">Address</th>
+          <th scope="col">Age</th>
+          <th scope="col">Department</th>
+          <th scope="col">Supervisor</th>
+        </tr>
+      </thead>
+
+      <tbody id="tableBody" class="table-group-divider">
+    </tbody>
+
+</table>
+
+    </div>
+</div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\appsettings.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\efpt.config.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.exe
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.deps.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.runtimeconfig.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.pdb
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.APILab2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.build.APILab2.props
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APILab2.props
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APILab2.props
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\scopedcss\bundle\APILab2.styles.css
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.CopyComplete
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\refint\APILab2.dll
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.pdb
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.genruntimeconfig.cache
+C:\Users\JOO TECH\Desktop\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\ref\APILab2.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\appsettings.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\efpt.config.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.exe
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.deps.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.runtimeconfig.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\APILab2.pdb
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.AssemblyReference.cache
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.AssemblyInfoInputs.cache
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.AssemblyInfo.cs
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.CoreCompileInputs.cache
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.APILab2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.build.APILab2.props
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APILab2.props
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APILab2.props
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\scopedcss\bundle\APILab2.styles.css
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.csproj.CopyComplete
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\refint\APILab2.dll
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.pdb
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\APILab2.genruntimeconfig.cache
+E:\ITI\ITI\Web API\Lab\Lab2\APILab2\obj\Debug\net7.0\ref\APILab2.dll
